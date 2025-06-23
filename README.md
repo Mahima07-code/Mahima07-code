@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mahima Prajapati
+# 👋 Hello, I'm Mahima 
 
 I'm a passionate web developer committed to building responsive, accessible, and user-friendly applications. I love turning ideas into real-world digital products using modern technologies.
 
