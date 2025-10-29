@@ -31,6 +31,8 @@ I'm a passionate web developer committed to building responsive, accessible, and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahima07-code&layout=compact&theme=default)](https://github.com/Mahima07-code)
 
+![React Badge](https://img.shields.io/badge/Focused%20on-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 ---
 
 ## 📫 Connect With Me
