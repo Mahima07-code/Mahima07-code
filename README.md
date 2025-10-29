@@ -37,7 +37,6 @@ I'm a passionate web developer committed to building responsive, accessible, and
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/mahima007)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahimarn84@gamail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=web&logoColor=white)](https://your-portfolio.com)
 
 ---
 
